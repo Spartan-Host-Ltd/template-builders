@@ -218,7 +218,7 @@ build {
     "source.qemu.server-2019-standard",
     "source.qemu.server-2019-standard-eval",
     "source.qemu.server-2022-standard",
-    "source.qemu.server-2022-standard-eval,"
+    "source.qemu.server-2022-standard-eval",
     "source.qemu.server-2025-standard"
   ]
 
